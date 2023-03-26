@@ -1,0 +1,14 @@
+points:
+- pose:
+    position:
+      x: 1.15
+      y: -0.652
+
+- pose:
+    position:
+      x: 2.34
+      y: 0.697
+#电梯在地图中的两个角的位置
+
+length: 0.8 
+#电梯门总宽度
